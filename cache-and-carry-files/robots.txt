@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cache-n-carry.pages.dev/sitemap.xml
